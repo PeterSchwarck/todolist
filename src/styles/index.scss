@@ -2,9 +2,16 @@
 
 input[type=text] {
    width: 600px;
+   padding-top: 50px;
 }
 
 h1 {
     text-align: center;
     color: rgba(175, 47, 47, 0.15);
+    font-size: 100px;
+    font-weight: 100;
+}
+
+ul {
+    list-style-type: none;
 }
